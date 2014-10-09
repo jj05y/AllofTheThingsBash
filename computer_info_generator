@@ -1,6 +1,6 @@
 #!/bin/bash
 #html page maker
-
+#this script outputs a html file and a cssfile (optional) with information about one's computer
 
 ## Constants
 
